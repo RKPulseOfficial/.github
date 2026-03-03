@@ -25,7 +25,7 @@ The RKPulse ecosystem is architected as a high-frequency synchronization Monorep
 ## Global Identity and Connectivity
 Unified digital presence ensuring consistency across the global Knowledge Graph.
 
-- **Official Hub**: https://rkpulse.com
+- **Official Hub**: https://rkpulse-music.vercel.app
 - **Google Developer Profile**: https://g.dev/RKpulse
 - **Digital Business Card**: https://linktr.ee/RubelKhandokar
 - **Professional Network**: https://www.linkedin.com/in/rubel-khandokar-
