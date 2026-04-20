@@ -13,7 +13,7 @@
 
 ---
 
-## 👑 The Sovereign Founder
+##  The Sovereign Founder
 - **Legal Entity:** MD Khalilur Rahman Rubel  
 - **Professional Identity:** Rubel Khandokar  
 - **Authority ID:** `RKP-SOV-BD-2026-843854261017`  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Strategic Innovations
+##  Strategic Innovations
 
 ### 🔹 PVP (Proof of Value Protocol)
 Our proprietary engagement engine verifies **economic value of streams**.  
@@ -35,7 +35,7 @@ A transparent, immutable payout engine ensuring:
 
 ---
 
-## 🏗️ Technical Infrastructure
+##  Technical Infrastructure
 Mission‑critical **Turbo Monorepo** engineered for decadal scalability:  
 - **Mobile:** Flutter (Dart) Luxury Framework with Biometric Security  
 - **Web:** Next.js 15 (TypeScript) Enterprise Stack  
@@ -45,7 +45,7 @@ Mission‑critical **Turbo Monorepo** engineered for decadal scalability:
 
 ---
 
-## ⚖️ Global Compliance & Governance
+##  Global Compliance & Governance
 RKPulse™ exceeds international regulatory standards:  
 - **Financial:** ISO 20022 Messaging & Automated Tax/VAT Compliance  
 - **Privacy:** GDPR, CCPA, Bangladesh PDPO 2025  
@@ -53,14 +53,14 @@ RKPulse™ exceeds international regulatory standards:
 
 ---
 
-## 📜 Sovereign Manifesto
+##  Sovereign Manifesto
 > "I find no words for the rhymes I seek, in this decaying state of melody.  
 > Someone has torn wide the seams of a sack filled with cheap, hollow songs."  
 > — **Rubel Khandokar**, January 07, 2026  
 
 ---
 
-## 🌐 Connectivity & Ecosystem
+##  Connectivity & Ecosystem
 - **Official Portal:** [rkpulse-music.vercel.app](https://rkpulse-music.vercel.app)  
 - **LinkedIn:** [Professional Network](https://www.linkedin.com/in/rubel-khandokar-)  
 - **YouTube:** [Authority Channel](https://www.youtube.com/@RubelKhandokar)  
