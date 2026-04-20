@@ -5,10 +5,34 @@ Thumbs.db
 # Logs and temp
 *.log
 *.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
 # Editor settings
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Node/npm cache (if ever used)
+# Node/npm cache
 node_modules/
+.npm/
+.pnpm-store/
+
+# Sovereign Identity & Local Environment
+.env
+.env.local
+.env.founder
+.env.*.local
+
+# Build outputs
+dist/
+.next/
+out/
+build/
+
+# Turborepo & Vercel
+.turbo/
+.vercel/
